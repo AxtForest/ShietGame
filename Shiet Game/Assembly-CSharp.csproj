@@ -62,6 +62,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\CameraSc.cs" />
     <Compile Include="Assets\Scripts\Sky.cs" />
+    <Compile Include="Assets\Scripts\Road.cs" />
     <Compile Include="Assets\Scripts\PlayerMovement.cs" />
   </ItemGroup>
   <ItemGroup>
